@@ -15,6 +15,6 @@ Just Open index.html!!!!
 
 ![2](https://raw.githubusercontent.com/Ajou-Team6/Team6-WebPage/master/results/2.png)
 
-![3](https://raw.githubusercontent.com/Ajou-Team6/Team6-WebPage/master/results/3.JPG)
+![3](https://raw.githubusercontent.com/Ajou-Team6/Team6-WebPage/master/results/3.png)
 
-![4](https://raw.githubusercontent.com/Ajou-Team6/Team6-WebPage/master/results/4.JPG)
+![4](https://raw.githubusercontent.com/Ajou-Team6/Team6-WebPage/master/results/4.PNG)
